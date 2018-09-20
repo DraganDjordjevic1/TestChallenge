@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContosoUniversityData", "ContosoUniversityData\ContosoUniversityData.sqlproj", "{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{00905120-5E39-416B-9AD0-A91DB5E47070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A829C62A-BA21-4C10-9C10-F9A9EC4511AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{00905120-5E39-416B-9AD0-A91DB5E47070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00905120-5E39-416B-9AD0-A91DB5E47070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00905120-5E39-416B-9AD0-A91DB5E47070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00905120-5E39-416B-9AD0-A91DB5E47070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9659BAD-1279-41AC-913E-451011D1567E}
+	EndGlobalSection
+EndGlobal
