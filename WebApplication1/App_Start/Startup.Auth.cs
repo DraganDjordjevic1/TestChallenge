@@ -61,7 +61,7 @@ namespace WebApplication1
            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
                  ClientId = "512813570080-262a7g71v77e9fpb9813fa2v14geubvs.apps.googleusercontent.com",
-                 ClientSecret = "sT2v1fnA_-VIaBHWhAJT673B"
+                 ClientSecret = "hT8K4GOWExwQd9l8_dEfcWCl"
            });
         }
     }
